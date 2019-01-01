@@ -29,13 +29,16 @@ An interpretation of quantum mechanics is an attempt to explain how the mathemat
 
 ## Maths 相关数学
 
-## Computation 计算
+* Fourier transform - 傅立叶变换
+* Wave function - 波函数
+
+## Computation - 计算
 
 ### Hilbert space
 
 完備的內積空間
 
-### operator
+### Operator - 算符
 
 在古典力學裏的算符大多作用於函數，這些函數的參數為各種各樣的物理量，算符將某函數映射為另一種函數。這種算符稱為「函數算符」。在量子力學裏的算符稱為「量子算符」，作用的對象是量子態。量子算符將某量子態映射為另一種量子態。
 
