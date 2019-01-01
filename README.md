@@ -4,9 +4,13 @@
 
 ## Fundamental 基础
 
-* Quantum electrodynamics (QED) 量子電動力學
-* [Quantum fluctuation](https://github.com/SZU-BDI/quantum_mechanics_knowledge_base/wiki/Quantum-fluctuation) 量子涨落
-* Quantum field theory (QFD) 量子场论
+* Quantum electrodynamics (QED) - 量子電動力學
+* [Quantum fluctuation](https://github.com/SZU-BDI/quantum_mechanics_knowledge_base/wiki/Quantum-fluctuation) - 量子涨落
+* Quantum field theory (QFD) - 量子场论
+* String theory - 弦理论
+* Loop quantum gravity (LQG) - 圈量子引力
+* Gauge theory - 规范场论
+* Theory of everything - 万有理论
 
 |  |  |
 | -- | -- | 
