@@ -12,6 +12,10 @@
 * [Quantum fluctuation](https://github.com/SZU-BDI/quantum_mechanics_knowledge_base/wiki/Quantum-fluctuation) 量子涨落
 * Quantum field theory (QFD) 量子场论
 
+| --- | --- |
+| P | T |
+
+
 ## Interpretations 诠释
 
 An interpretation of quantum mechanics is an attempt to explain how the mathematical theory of quantum mechanics corresponds to reality. 量子物理诠释是指把量子机制的数学理论与现实关联起来的尝试
