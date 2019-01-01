@@ -11,10 +11,15 @@
 * Loop quantum gravity (LQG) - 圈量子引力
 * Gauge theory - 规范场论
 * Theory of everything - 万有理论
+* Renormalization - 
+* Regularization - 
+* Infinite square potential - 無限深 方形 阱
+* Spin network
+* 
 
 |  |  |
 | -- | -- | 
-| ![Schrödinger equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/0de8741a7d26ae98689c7b3339e97dfafea9fd26) | |
+| ![Schrödinger equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/0de8741a7d26ae98689c7b3339e97dfafea9fd26) | ![Mass](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MassProperties.svg/640px-MassProperties.svg.png) |
 |![Feynman diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Feynmann_Diagram_Gluon_Radiation.svg/574px-Feynmann_Diagram_Gluon_Radiation.svg.png) | ![Standard_Model_of_Elementary_Particles](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Standard_Model_of_Elementary_Particles.svg/600px-Standard_Model_of_Elementary_Particles.svg.png) |
 
 
