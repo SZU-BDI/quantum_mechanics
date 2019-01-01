@@ -12,7 +12,8 @@
 * [Quantum fluctuation](https://github.com/SZU-BDI/quantum_mechanics_knowledge_base/wiki/Quantum-fluctuation) 量子涨落
 * Quantum field theory (QFD) 量子场论
 
-| --- | --- |
+| P | T |
+| -- | -- |
 | P | T |
 
 
