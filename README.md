@@ -1,6 +1,6 @@
 # [Quantum Mechanics](https://github.com/SZU-BDI/quantum_mechanics_knowledge_base/wiki/Quantum-Mechanics) Knowledge Base 量子力学知识库
 
-本知识库基于对量子世界的兴趣而建，有意加入编辑请发申请函至 wanjochan@gmail.com
+> 本知识库基于对量子世界的兴趣而建，有意加入编辑请发申请函至 wanjochan@gmail.com
 
 ## Fundamental 基础
 
@@ -8,9 +8,10 @@
 * [Quantum fluctuation](https://github.com/SZU-BDI/quantum_mechanics_knowledge_base/wiki/Quantum-fluctuation) 量子涨落
 * Quantum field theory (QFD) 量子场论
 
-|  |  |  |
-| -- | -- | -- |
-| ![Schrödinger equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/0de8741a7d26ae98689c7b3339e97dfafea9fd26) | ![Feynman diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Feynmann_Diagram_Gluon_Radiation.svg/574px-Feynmann_Diagram_Gluon_Radiation.svg.png) | ![Standard_Model_of_Elementary_Particles](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Standard_Model_of_Elementary_Particles.svg/600px-Standard_Model_of_Elementary_Particles.svg.png) |
+|  |  |
+| -- | -- | 
+| ![Schrödinger equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/0de8741a7d26ae98689c7b3339e97dfafea9fd26) | |
+|![Feynman diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Feynmann_Diagram_Gluon_Radiation.svg/574px-Feynmann_Diagram_Gluon_Radiation.svg.png) | ![Standard_Model_of_Elementary_Particles](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Standard_Model_of_Elementary_Particles.svg/600px-Standard_Model_of_Elementary_Particles.svg.png) |
 
 
 ## Interpretations 诠释
