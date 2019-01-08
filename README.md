@@ -11,13 +11,13 @@
 * Loop quantum gravity (LQG) - 圈量子引力
 * Gauge theory - 规范场论
 * Theory of everything - 万有理论
-* Renormalization - 
-* Regularization - 
+* Renormalization - 重整化
+* Regularization - 正则化
 * Infinite square potential - 無限深 方形 阱
-* Spin network
+* Spin network - 自选网络
 * Condensed matter - 凝聚态物质
-* - 量子霍尔效应
-* - 量子反常霍尔效应
+* Quantum Hall effect - 量子霍尔效应
+* Quantum Anomalous Hall effect - 量子反常霍尔效应
 
 |  |  |
 | -- | -- | 
