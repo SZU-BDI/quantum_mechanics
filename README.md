@@ -48,4 +48,4 @@ An interpretation of quantum mechanics is an attempt to explain how the mathemat
 
 ## History 历史
 
-* 
+* 推荐[【无中生有的世界：量子力学传奇】——吴京平](https://www.zhihu.com/pub/book/119577300)
