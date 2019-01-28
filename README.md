@@ -1,4 +1,4 @@
-# [Quantum Mechanics](https://github.com/SZU-BDI/quantum_mechanics_knowledge_base/wiki/Quantum-Mechanics) Knowledge Base 量子力学知识库
+# [Quantum Mechanics](https://github.com/SZU-BDI/quantum_mechanics_knowledge_base/wiki/Quantum-Mechanics) Knowledge Base 量子力学
 
 > 本知识库，更甚似手册型，乃本人基于对量子世界的兴趣而建。星辰大海暂时不能去，那就先把微型研究到极致吧。
 
@@ -30,7 +30,10 @@
 * Quantum Anomalous Hall effect - 量子反常霍尔效应
 * Symmetry Breaking - 对称性残缺
 * Supersymmetry - 超对称
-
+* Conjugate variables - [共轭物理变量]( "In quantum mechanics, two variables are conjugate if the commutation relation is non zero. A standard example is the relation between position (x) and momentum (p), where the quantum mechanical operators involved obey the commutation relation {\displaystyle [x,p]=px-xp=1/2*i\hbar } {\displaystyle [x,p]=px-xp=1/2*i\hbar }. This can be expressed in terms of an uncertainty relation as {\displaystyle \Delta p\Delta x\geq \hbar } {\displaystyle \Delta p\Delta x\geq \hbar }/2.")
+  - -
+  - -
+  
 |  |  |
 | -- | -- | 
 | ![Schrödinger equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/0de8741a7d26ae98689c7b3339e97dfafea9fd26) | ![Mass](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MassProperties.svg/640px-MassProperties.svg.png) |
@@ -49,6 +52,7 @@ An interpretation of quantum mechanics is an attempt to explain how the mathemat
 * Bifurcation theory - 分叉理论
 * Riemannian geometry (Elliptic geometry) - 黎曼幾何
 * Metric tensor - 度量张量(度規張量/黎曼度量)
+
 
 ## Computation - 计算
 
