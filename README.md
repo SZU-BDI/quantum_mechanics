@@ -44,6 +44,8 @@ An interpretation of quantum mechanics is an attempt to explain how the mathemat
 * Fourier transform - 傅立叶变换
 * Wave function - 波函数
 * Bifurcation theory - 分叉理论
+* Riemannian geometry (Elliptic geometry) - 黎曼幾何
+* Metric tensor - 度量张量(度規張量/黎曼度量)
 
 ## Computation - 计算
 
