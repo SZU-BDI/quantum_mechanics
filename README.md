@@ -30,7 +30,7 @@
 * Quantum Anomalous Hall effect - 量子反常霍尔效应
 * Symmetry Breaking - 对称性残缺
 * Supersymmetry - 超对称
-* Conjugate variables - [共轭物理变量]( "In quantum mechanics, two variables are conjugate if the commutation relation is non zero. A standard example is the relation between position (x) and momentum (p), where the quantum mechanical operators involved obey the commutation relation {\displaystyle [x,p]=px-xp=1/2*i\hbar } {\displaystyle [x,p]=px-xp=1/2*i\hbar }. This can be expressed in terms of an uncertainty relation as {\displaystyle \Delta p\Delta x\geq \hbar } {\displaystyle \Delta p\Delta x\geq \hbar }/2.")
+* Conjugate variables - ![共轭物理变量](https://en.wikipedia.org/wiki/Conjugate_variables "In quantum mechanics, two variables are conjugate if the commutation relation is non zero. A standard example is the relation between position (x) and momentum (p), where the quantum mechanical operators involved obey the commutation relation {\displaystyle [x,p]=px-xp=1/2*i\hbar } {\displaystyle [x,p]=px-xp=1/2*i\hbar }. This can be expressed in terms of an uncertainty relation as {\displaystyle \Delta p\Delta x\geq \hbar } {\displaystyle \Delta p\Delta x\geq \hbar }/2.")
   - -
   - -
   
