@@ -1,16 +1,23 @@
 # [Quantum Mechanics](https://github.com/SZU-BDI/quantum_mechanics_knowledge_base/wiki/Quantum-Mechanics) Knowledge Base 量子力学知识库
 
-> 本知识库基于对量子世界的兴趣而建
+> 本知识库，更甚似手册型，乃本人基于对量子世界的兴趣而建。星辰大海暂时不能去，那就先把微型研究到极致吧。
 
 ## Fundamental 基础
 
 * Quantum electrodynamics (QED) - 量子電動力學
 * [Quantum fluctuation](https://github.com/SZU-BDI/quantum_mechanics_knowledge_base/wiki/Quantum-fluctuation) - 量子涨落
 * Quantum field theory (QFD) - 量子场论
-* Standard Model - 标准模型
+- Standard Model - 标准模型
+  - - 玻色子
+    - - 胶子
+    - - 光子
+    - - W及Z玻色子
+    - - 希格斯粒子
+  - - 費米子
+  - - 
+* Gauge theory - 规范场论
 * String theory - 弦理论
 * Loop quantum gravity (LQG) - 圈量子引力
-* Gauge theory - 规范场论
 * Theory of everything - 万有理论
 * Renormalization - 重整化
 * Regularization - 正则化
