@@ -8,12 +8,14 @@
 * [Quantum fluctuation](https://github.com/SZU-BDI/quantum_mechanics_knowledge_base/wiki/Quantum-fluctuation) - 量子涨落
 * Quantum field theory (QFD) - 量子场论
 - Standard Model - 标准模型
-  - - 玻色子
+  - Boson - 玻色子
     - - 胶子
     - - 光子
     - - W及Z玻色子
     - - 希格斯粒子
-  - - 費米子
+  - Fermion - 費米子
+    - - 夸克
+    - - 轻子
   - Gauge theory - 规范场论
     - Coupling constant - 耦合常數
 * String theory - 弦理论
