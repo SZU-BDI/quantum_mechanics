@@ -18,6 +18,7 @@
     - - 轻子
   - Gauge theory - 规范场论
     - Coupling constant - 耦合常數
+* Uncertainty principle - 不确定原理/测不准原理
 * String theory - 弦理论
 * Loop quantum gravity (LQG) - 圈量子引力
 * Theory of everything - 万有理论
@@ -30,9 +31,12 @@
 * Quantum Anomalous Hall effect - 量子反常霍尔效应
 * Symmetry Breaking - 对称性残缺
 * Supersymmetry - 超对称
-* Conjugate variables - ![共轭物理变量](https://en.wikipedia.org/wiki/Conjugate_variables "In quantum mechanics, two variables are conjugate if the commutation relation is non zero. A standard example is the relation between position (x) and momentum (p), where the quantum mechanical operators involved obey the commutation relation {\displaystyle [x,p]=px-xp=1/2*i\hbar } {\displaystyle [x,p]=px-xp=1/2*i\hbar }. This can be expressed in terms of an uncertainty relation as {\displaystyle \Delta p\Delta x\geq \hbar } {\displaystyle \Delta p\Delta x\geq \hbar }/2.")
-  - -
-  - -
+* Conjugate variables - [共轭物理变量](https://en.wikipedia.org/wiki/Conjugate_variables "In quantum mechanics, two variables are conjugate if the commutation relation is non zero. A standard example is the relation between position (x) and momentum (p), where the quantum mechanical operators involved obey the commutation relation {\displaystyle [x,p]=px-xp=1/2*i\hbar } {\displaystyle [x,p]=px-xp=1/2*i\hbar }. This can be expressed in terms of an uncertainty relation as {\displaystyle \Delta p\Delta x\geq \hbar } {\displaystyle \Delta p\Delta x\geq \hbar }/2.")
+  - Canonical commutation relation - 对易关系
+* - 古典力学
+  - - 拉格朗日力學
+  - Hamiltonian mechanics - 哈密顿力学
+    - Poisson bracket - [帕松括號](https://en.wikipedia.org/wiki/Poisson_bracket "An important binary operation in Hamiltonian mechanics, playing a central role in Hamilton's equations of motion, which govern the time evolution of a Hamiltonian dynamical system.")
   
 |  |  |
 | -- | -- | 
