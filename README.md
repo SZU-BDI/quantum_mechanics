@@ -14,8 +14,8 @@
     - - W及Z玻色子
     - - 希格斯粒子
   - - 費米子
-  - - 
-* Gauge theory - 规范场论
+  - Gauge theory - 规范场论
+    - Coupling constant - 耦合常數
 * String theory - 弦理论
 * Loop quantum gravity (LQG) - 圈量子引力
 * Theory of everything - 万有理论
@@ -27,6 +27,7 @@
 * Quantum Hall effect - 量子霍尔效应
 * Quantum Anomalous Hall effect - 量子反常霍尔效应
 * Symmetry Breaking - 对称性残缺
+* Supersymmetry - 超对称
 
 |  |  |
 | -- | -- | 
