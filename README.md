@@ -7,6 +7,7 @@
 * Quantum electrodynamics (QED) - 量子電動力學
 * [Quantum fluctuation](https://github.com/SZU-BDI/quantum_mechanics_knowledge_base/wiki/Quantum-fluctuation) - 量子涨落
 * Quantum field theory (QFD) - 量子场论
+* Standard Model - 标准模型
 * String theory - 弦理论
 * Loop quantum gravity (LQG) - 圈量子引力
 * Gauge theory - 规范场论
