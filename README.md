@@ -35,6 +35,7 @@ An interpretation of quantum mechanics is an attempt to explain how the mathemat
 
 * Fourier transform - 傅立叶变换
 * Wave function - 波函数
+* Bifurcation theory - 分叉理论
 
 ## Computation - 计算
 
