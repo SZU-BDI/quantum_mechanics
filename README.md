@@ -1,24 +1,25 @@
-# [Quantum Mechanics](https://github.com/SZU-BDI/quantum_mechanics_knowledge_base/wiki/Quantum-Mechanics) Knowledge Base 量子力学
+# Quantum Knowledge Base 量子知识库
 
-> 本知识库(更似手册)，乃本人基于对量子世界的兴趣而建。星辰大海暂不能去，便先研究微型极致吧。
+> 本知识库(更似手册)，乃本人基于对量子世界的兴趣而建。星辰大海暂不能去，便先研究微观到极致吧。欢迎各位【量友】加 Issues 和联合编辑本库
+
+* [Quantum Mechanics WIKI SZU BDI](https://github.com/SZU-BDI/quantum_mechanics_knowledge_base/wiki/Quantum-Mechanics) 量子力学
 
 ## Fundamental 基础
 
 * [Quantum field theory (QFD) - 量子场论](https://en.wikipedia.org/wiki/Quantum_field_theory) [Category](https://en.wikipedia.org/wiki/Category:Quantum_field_theory)
   * [Quantum electrodynamics, QED](https://en.wikipedia.org/wiki/Quantum_electrodynamics) - [量子電動力學](https://zh.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E9%9B%BB%E5%8B%95%E5%8A%9B%E5%AD%B8)
-  * 
 * [Quantum fluctuation](https://github.com/SZU-BDI/quantum_mechanics_knowledge_base/wiki/Quantum-fluctuation) - 量子涨落
-- Standard Model - 标准模型
-  - Boson - 玻色子
-    - - 胶子
-    - - 光子
-    - - W及Z玻色子
-    - - 希格斯粒子
-  - Fermion - 費米子
-    - - 夸克
-    - - 轻子
-  - Gauge theory - 规范场论
-    - Coupling constant - 耦合常數
+* Standard Model - 标准模型
+  * Boson - 玻色子
+    * - 胶子
+    * - 光子
+    * - W及Z玻色子
+    * - 希格斯粒子
+  * Fermion - 費米子
+    * - 夸克
+    * - 轻子
+  * Gauge theory - 规范场论
+    * Coupling constant - 耦合常數
 * Uncertainty principle - 不确定原理/测不准原理
 * String theory - 弦理论
 * Loop quantum gravity (LQG) - 圈量子引力
