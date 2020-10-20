@@ -1,6 +1,6 @@
 # [Quantum Mechanics](https://github.com/SZU-BDI/quantum_mechanics_knowledge_base/wiki/Quantum-Mechanics) Knowledge Base 量子力学
 
-> 本知识库，更甚似手册型，乃本人基于对量子世界的兴趣而建。星辰大海暂时不能去，那就先把微型研究到极致吧。
+> 本知识库(更似手册)，乃本人基于对量子世界的兴趣而建。星辰大海暂不能去，便先研究微型极致吧。
 
 ## Fundamental 基础
 
@@ -61,6 +61,10 @@ An interpretation of quantum mechanics is an attempt to explain how the mathemat
 
 ## Computation - 计算
 
+### Programming
+
+* https://en.wikipedia.org/wiki/Quantum_programming
+ * [Quantum Computation Language, QCL](https://en.wikipedia.org/wiki/Quantum_Computation_Language)
 ### Hilbert space
 
 Hilbert完备内积空间
@@ -72,8 +76,8 @@ Hilbert完备内积空间
 ## 工程及应用
 
 * Python Quantum Computing
-* IBM Q Lab
-* Huawei Q Lab
+* [IBM QC](https://www.ibm.com/quantum-computing/), [IBM QC](https://quantum-computing.ibm.com/), [jupyter](https://quantum-computing.ibm.com/jupyter), [topics](https://www.ibm.com/skills/topics/quantum/), 
+* [Huawei HiQ Lab](https://hiq.huaweicloud.com/en/index.html)
 * [Tencent Q Lab](https://quantum.tencent.com/research/)
 
 ## History 历史
