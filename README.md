@@ -4,9 +4,10 @@
 
 ## Fundamental 基础
 
-* Quantum electrodynamics (QED) - 量子電動力學
+* [Quantum field theory (QFD) - 量子场论](https://en.wikipedia.org/wiki/Quantum_field_theory) [Category](https://en.wikipedia.org/wiki/Category:Quantum_field_theory)
+  * [Quantum electrodynamics, QED](https://en.wikipedia.org/wiki/Quantum_electrodynamics) - [量子電動力學](https://zh.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E9%9B%BB%E5%8B%95%E5%8A%9B%E5%AD%B8)
+  * 
 * [Quantum fluctuation](https://github.com/SZU-BDI/quantum_mechanics_knowledge_base/wiki/Quantum-fluctuation) - 量子涨落
-* Quantum field theory (QFD) - 量子场论
 - Standard Model - 标准模型
   - Boson - 玻色子
     - - 胶子
@@ -62,12 +63,18 @@ An interpretation of quantum mechanics is an attempt to explain how the mathemat
 
 ### Hilbert space
 
-完備的內積空間
+Hilbert完备内积空间
 
 ### Operator - 算符
 
 在古典力學裏的算符大多作用於函數，這些函數的參數為各種各樣的物理量，算符將某函數映射為另一種函數。這種算符稱為「函數算符」。在量子力學裏的算符稱為「量子算符」，作用的對象是量子態。量子算符將某量子態映射為另一種量子態。
 
+## 工程及应用
+
+* Python Quantum Computing
+* IBM Q Lab
+* Huawei Q Lab
+* [Tencent Q Lab](https://quantum.tencent.com/research/)
 
 ## History 历史
 
