@@ -2,7 +2,7 @@
 
 > 本知识库(更似手册)，乃本人基于对量子世界的兴趣而建。星辰大海暂不能去，便先研究微观到极致吧。欢迎各位【量友】提 Issues 或参与编辑本库
 
-* [Quantum Mechanics WIKI SZU BDI](https://github.com/SZU-BDI/quantum_mechanics_knowledge_base/wiki/Quantum-Mechanics) 量子力学
+* [Quantum Mechanics WIKI by SZU BDI](https://github.com/SZU-BDI/quantum_mechanics_knowledge_base/wiki/Quantum-Mechanics) 量子力学 wiki by szu-bdi
 
 ## Get Started 入门
 
@@ -23,8 +23,11 @@
   * Gauge theory - 规范场论
     * Coupling constant - 耦合常數
 * Uncertainty principle - 不确定原理/测不准原理
-* - 古典力学
-  * - 拉格朗日力學
+* Classical mechanics - 古典力学
+  * [Newton Laws of Motion](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion) - 牛顿力学
+  * General relativity - 广义相对论
+  * Special relativity - 侠义相对论
+  * Lagrangian mechanics - 拉格朗日力學
   * Hamiltonian mechanics - 哈密顿力学
     * Poisson bracket - [帕松括號](https://en.wikipedia.org/wiki/Poisson_bracket "An important binary operation in Hamiltonian mechanics, playing a central role in Hamilton's equations of motion, which govern the time evolution of a Hamiltonian dynamical system.")
 * Theory of everything - 万有理论
