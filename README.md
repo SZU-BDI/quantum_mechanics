@@ -1,29 +1,38 @@
 # Quantum Knowledge Base 量子知识库
 
-> 本知识库(更似手册)，乃本人基于对量子世界的兴趣而建。星辰大海暂不能去，便先研究微观到极致吧。欢迎各位【量友】加 Issues 和联合编辑本库
+> 本知识库(更似手册)，乃本人基于对量子世界的兴趣而建。星辰大海暂不能去，便先研究微观到极致吧。欢迎各位【量友】提 Issues 或参与编辑本库
 
 * [Quantum Mechanics WIKI SZU BDI](https://github.com/SZU-BDI/quantum_mechanics_knowledge_base/wiki/Quantum-Mechanics) 量子力学
 
+## Get Started 入门
+
+* 【量子世界地图】（制作中）
+* 【软件工程师眼中的量子世界】（制作中）
+
 ## Fundamental 基础
 
-* [Quantum field theory (QFD) - 量子场论](https://en.wikipedia.org/wiki/Quantum_field_theory) [Category](https://en.wikipedia.org/wiki/Category:Quantum_field_theory)
-  * [Quantum electrodynamics, QED](https://en.wikipedia.org/wiki/Quantum_electrodynamics) - [量子電動力學](https://zh.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E9%9B%BB%E5%8B%95%E5%8A%9B%E5%AD%B8)
-* [Quantum fluctuation](https://github.com/SZU-BDI/quantum_mechanics_knowledge_base/wiki/Quantum-fluctuation) - 量子涨落
 * Standard Model - 标准模型
   * Boson - 玻色子
-    * - 胶子
-    * - 光子
-    * - W及Z玻色子
-    * - 希格斯粒子
+    * Gluon - 胶子
+    * Photon - 光子
+    * W Z Boson - W及Z玻色子
+    * Higgs - 希格斯粒子
   * Fermion - 費米子
-    * - 夸克
-    * - 轻子
+    * Quark - 夸克
+    * Lepton - 轻子
   * Gauge theory - 规范场论
     * Coupling constant - 耦合常數
 * Uncertainty principle - 不确定原理/测不准原理
+* - 古典力学
+  * - 拉格朗日力學
+  * Hamiltonian mechanics - 哈密顿力学
+    * Poisson bracket - [帕松括號](https://en.wikipedia.org/wiki/Poisson_bracket "An important binary operation in Hamiltonian mechanics, playing a central role in Hamilton's equations of motion, which govern the time evolution of a Hamiltonian dynamical system.")
+* Theory of everything - 万有理论
+* [Quantum field theory (QFD) - 量子场论](https://en.wikipedia.org/wiki/Quantum_field_theory) [Category](https://en.wikipedia.org/wiki/Category:Quantum_field_theory)
+  * [Quantum electrodynamics, QED](https://en.wikipedia.org/wiki/Quantum_electrodynamics) - [量子電動力學](https://zh.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E9%9B%BB%E5%8B%95%E5%8A%9B%E5%AD%B8)
+* [Quantum fluctuation](https://github.com/SZU-BDI/quantum_mechanics_knowledge_base/wiki/Quantum-fluctuation) - 量子涨落
 * String theory - 弦理论
 * Loop quantum gravity (LQG) - 圈量子引力
-* Theory of everything - 万有理论
 * Renormalization - 重整化
 * Regularization - 正则化
 * Infinite square potential - 無限深 方形 阱
@@ -35,10 +44,6 @@
 * Supersymmetry - 超对称
 * Conjugate variables - [共轭物理变量](https://en.wikipedia.org/wiki/Conjugate_variables "In quantum mechanics, two variables are conjugate if the commutation relation is non zero. A standard example is the relation between position (x) and momentum (p), where the quantum mechanical operators involved obey the commutation relation {\displaystyle [x,p]=px-xp=1/2*i\hbar } {\displaystyle [x,p]=px-xp=1/2*i\hbar }. This can be expressed in terms of an uncertainty relation as {\displaystyle \Delta p\Delta x\geq \hbar } {\displaystyle \Delta p\Delta x\geq \hbar }/2.")
   - Canonical commutation relation - 对易关系
-* - 古典力学
-  - - 拉格朗日力學
-  - Hamiltonian mechanics - 哈密顿力学
-    - Poisson bracket - [帕松括號](https://en.wikipedia.org/wiki/Poisson_bracket "An important binary operation in Hamiltonian mechanics, playing a central role in Hamilton's equations of motion, which govern the time evolution of a Hamiltonian dynamical system.")
   
 |  |  |
 | -- | -- | 
@@ -53,12 +58,11 @@ An interpretation of quantum mechanics is an attempt to explain how the mathemat
 
 ## Maths 相关数学
 
-* Fourier transform - 傅立叶变换
 * Wave function - 波函数
 * Bifurcation theory - 分叉理论
 * Riemannian geometry (Elliptic geometry) - 黎曼幾何
+* Fourier transform - 傅立叶变换
 * Metric tensor - 度量张量(度規張量/黎曼度量)
-
 
 ## Computation - 计算
 
